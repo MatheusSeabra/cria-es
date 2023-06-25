@@ -3,3 +3,5 @@ Esmaga tudo é um jogo feito em 2d no unity, Peguei um jogo com base do youtube 
 Intuito desse jogo é ver qual seu tempo maximo sobrevivendo e quanto longe vc consegue ir, no futuro com mais sabedoria pretendo mudar mais esse jogo e transformar ele em 3d deixando mais dificil com mobilidade melhor e graficos.
 
 É um jogo basico porem divertido de se jogar contra algum amigo competir contra etc.
+
+link do jogo: https://drive.google.com/file/d/1CZNEigMtw0qluIAK_TTr23Mfm9FhNgFI/view?usp=sharing
